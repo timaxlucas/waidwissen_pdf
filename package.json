@@ -1,0 +1,21 @@
+{
+  "name": "waidwissen_pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^2.1.1",
+    "aws-sdk": "^2.1140.0",
+    "dotenv": "^16.0.1",
+    "react": "^16.14.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.0",
+    "@babel/node": "^7.17.10",
+    "@babel/preset-env": "^7.18.0",
+    "@babel/preset-react": "^7.17.12"
+  }
+}
